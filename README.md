@@ -7,8 +7,8 @@ This is an (almost) empty REST server serving only one resource at /hello.
 mvn spring-boot:run
 
 ## Assignment
-Add one (or more) resources where we can found out information about a provided date.  
-Please commit your response in a seperate branch.  
+Add one (or more) resources where we can find out information about a provided date.  
+Please commit your response in a separate branch.  
 Please provide code as you would normally do when writing software that should run in production.
 
 
