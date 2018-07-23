@@ -20,3 +20,4 @@ For a date I want to know:
 3. What is the week number in the gregorian calendar
 4. How many days until the next Catholic (dec 25th) and Eastern Orthodox (jan 7th) christmas
 5. How many days until now
+6. To which constellation does this date belong according to the Astrolonomical classification on http://dionysia.org/astrology/sun-signs.html
